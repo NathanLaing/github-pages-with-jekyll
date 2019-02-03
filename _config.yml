@@ -1,8 +1,8 @@
-title: My example Github Pages
+title: My first blog
 author: Nathan Laing
 email: ktmlaing@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  A GitHub Page for the GitHub Learning Labs course
+  A blog made using GitHub Pages for the GitHub Learning Labs course
 
 # social links
 twitter_username: Nathan__Laing
